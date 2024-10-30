@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mary_\\Desktop\\Tester\\Webbshop\\Backend-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8576ADAF-4282-489C-9C5E-C54B7E21B24E}|WebApplication1\\WebApplication1.csproj|c:\\users\\mary_\\desktop\\tester\\webbshop\\backend-api\\webapplication1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8576ADAF-4282-489C-9C5E-C54B7E21B24E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8576ADAF-4282-489C-9C5E-C54B7E21B24E}|WebApplication1\\WebApplication1.csproj|c:\\users\\mary_\\desktop\\tester\\webbshop\\backend-api\\webapplication1\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8576ADAF-4282-489C-9C5E-C54B7E21B24E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8576ADAF-4282-489C-9C5E-C54B7E21B24E}|WebApplication1\\WebApplication1.csproj|c:\\users\\mary_\\desktop\\tester\\webbshop\\backend-api\\webapplication1\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8576ADAF-4282-489C-9C5E-C54B7E21B24E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\mary_\\Desktop\\Tester\\Webbshop\\Backend-api\\WebApplication1\\Data\\SqlContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\mary_\\Desktop\\Tester\\Webbshop\\Backend-api\\WebApplication1\\Data\\SqlContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\SqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T13:29:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\mary_\\Desktop\\Tester\\Webbshop\\Backend-api\\WebApplication1\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\mary_\\Desktop\\Tester\\Webbshop\\Backend-api\\WebApplication1\\Models\\Image.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:19:46.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\mary_\\Desktop\\Tester\\Webbshop\\Backend-api\\WebApplication1\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\mary_\\Desktop\\Tester\\Webbshop\\Backend-api\\WebApplication1\\Models\\Products.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:18:34.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

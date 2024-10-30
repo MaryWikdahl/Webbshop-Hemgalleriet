@@ -1,0 +1,8 @@
+﻿
+dotnet ef dbcontext scaffold "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\mary_\Documents\New_Db.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -Context SqlContext -ContextDir Data -OutputDir Models -Force
+
+Scaffold-DbContext"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\mary_\Documents\New_Db.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -Context SqlContext -ContextDir Data -OutputDir Models -Force
+
+
+DENNA MÅSTE LÄGGAS TILL I PROGRAM
+builder.Services.AddDbContext<SqlContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("SqlConnection")));
